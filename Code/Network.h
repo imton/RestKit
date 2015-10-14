@@ -18,7 +18,6 @@
 //  limitations under the License.
 //
 
-
 #import <Availability.h>
 
 #define _AFNETWORKING_PIN_SSL_CERTIFICATES_
